@@ -14,7 +14,7 @@ This project was created as part of an assignment that mimics a real-world polli
 
 - Create new poll questions.
  <br>
-  <img width="1920" height="1080" alt="Image" img="C:\Users\likit\OneDrive\Pictures\Screenshots.png" />
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/61bbd400-2acf-40c7-bb78-f3aaaf8c2ac0">
   <br>
   <br>
 - View Live Polling Results as students submit answers.
