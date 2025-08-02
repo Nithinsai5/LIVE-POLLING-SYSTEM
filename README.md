@@ -79,7 +79,7 @@ This project was created as part of an assignment that mimics a real-world polli
 
 ### 1. Clone the Repository
 
-git clone https://github.com/rahul-chakradhari/Live-polling-system.git
+git clone https://github.com/Nithinsai5/LIVE-POLLING-SYSTEM/tree/main
 cd Live-polling-system
 
 ### 2. Run Backend
