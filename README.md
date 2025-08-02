@@ -95,7 +95,7 @@ npm install
 npm start
 
 ###  Author
-Rahul Chakradhari
+Pydivada Nithin Sai
 B.Tech CSE | 2025
-Email: rahulchakradhari10september@gmail.com
-GitHub: @rahul-chakradhari
+Email: nithinsai5645@gmail.com
+
